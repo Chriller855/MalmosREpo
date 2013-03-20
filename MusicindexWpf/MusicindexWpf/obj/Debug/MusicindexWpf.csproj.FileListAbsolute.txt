@@ -1,0 +1,15 @@
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\bin\Debug\MusicindexWpf.exe.config
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\bin\Debug\MusicindexWpf.exe
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\bin\Debug\MusicindexWpf.pdb
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\bin\Debug\Bisness.exe
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\bin\Debug\Bisness.pdb
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.csprojResolveAssemblyReference.cache
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MainWindow.baml
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MainWindow.g.cs
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\App.g.cs
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf_MarkupCompile.cache
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.g.resources
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.Properties.Resources.resources
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.csproj.GenerateResource.Cache
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.exe
+c:\users\malmos\documents\visual studio 2012\Projects\MusicindexWpf\MusicindexWpf\obj\Debug\MusicindexWpf.pdb
